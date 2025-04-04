@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.StudentApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black_pearl</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/white</item> <!-- Background color -->
+        <item name="colorOnSurface">@color/black</item> <!-- Text color -->
+    </style>
+</resources>

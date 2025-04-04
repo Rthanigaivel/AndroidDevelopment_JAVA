@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "116720400026",
+    "firebase_url": "https://tailor-app-30f28-default-rtdb.firebaseio.com",
+    "project_id": "tailor-app-30f28",
+    "storage_bucket": "tailor-app-30f28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116720400026:android:30d252e4aeea2f71f4d123",
+        "android_client_info": {
+          "package_name": "com.student.studentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fDpUiMApYEsUGfS-cFqTaPfMhH6u3I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

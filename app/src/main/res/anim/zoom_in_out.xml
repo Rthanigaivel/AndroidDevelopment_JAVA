@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator">
+    <!-- Zoom in effect -->
+    <scale
+        android:duration="1500"
+        android:fromXScale="0"
+        android:fromYScale="0"
+        android:toXScale="1.2"
+        android:toYScale="1.2"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+
+    <!-- Fade in effect -->
+    <alpha
+        android:duration="1500"
+        android:fromAlpha="0"
+        android:toAlpha="1" />
+
+    <!-- Zoom out effect with reduced size -->
+    <scale
+        android:startOffset="1500"
+        android:duration="1500"
+        android:fromXScale="1.2"
+        android:fromYScale="1.2"
+        android:toXScale="0.8"
+        android:toYScale="0.8"
+        android:pivotX="50%"
+        android:pivotY="50%" />
+</set>
